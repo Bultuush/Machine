@@ -1,4 +1,4 @@
-![image](https://github.com/Bultuush/Machine/assets/129934501/ac6d2c1d-47cd-4328-a881-ada537ee8043)# Machine1 "THE PLANETS: EARTH"
+# Machine1 "THE PLANETS: EARTH"
 1. Target-ын мэдэээл авах netdiscover командыг хийснээр бидний зорилтот IP гэж юу болохыг харах боломжтой
 ![1](https://github.com/Bultuush/Machine/assets/129934501/baf59437-0b31-484f-93a3-d8f46e00e7b3)
 Target-ын IP хаяг 192.168.56.103
